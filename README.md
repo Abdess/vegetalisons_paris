@@ -4,6 +4,8 @@
 
 Recherche de solution d'optimisation des trajets d'entretien des arbres pour la ville de Paris.
 
+Visualiser en ligne : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Abdess/vegetalisons_paris/HEAD)
+
 ## Installation avec conda
 
 ![Conda](data/image/conda.png)
